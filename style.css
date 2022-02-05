@@ -1,0 +1,37 @@
+
+* {
+    box-sizing: border-box;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+
+ul,
+ol {
+    padding:10px 30px;
+    width: 700px;
+    margin: 0px;
+}
+
+ul,
+ol {
+    background-color:lightblue;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+    font-family: cursive;
+    width: 200px;
+    background-color: lightblue;
+
+}
+
+
+.ingredients,
+.instructions {
+    margin-bottom: 0;
+    color:lightcoral
+}
+
